@@ -1,2 +1,3 @@
 # resume
-My resume in a webpage
+My resume in a webpage.
+This page was made by using Bootstrap.
